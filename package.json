@@ -1,0 +1,17 @@
+{
+  "name": "lamnv.test",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "rxjs": "^6.5.2"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "scripts": {
+    "test1": "mocha ./retail",
+    "test2": "mocha ./stringToMap"
+  },
+  "author": "lamnv",
+  "license": "ISC"
+}
