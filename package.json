@@ -9,8 +9,8 @@
     "mocha": "^6.1.4"
   },
   "scripts": {
-    "test1": "mocha ./retail",
-    "test2": "mocha ./stringToMap"
+    "test1": "mocha ./stringToMap",
+    "test3": "mocha ./retail"
   },
   "author": "lamnv",
   "license": "ISC"
